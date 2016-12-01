@@ -2,8 +2,8 @@
 	"notifications":
 	[
 		{
-			"new_walls": "0",
-			"general": "v. 0.2.6 beta - available for download: redesign: some icons; new: icons; misc improvements: added new lauchers support"
+			"new_walls": "1",
+			"general": "v. 0.2.7 beta - available for download. Misc improvements: added Next laucher support (2D mode)"
 		}
 	]
 }
