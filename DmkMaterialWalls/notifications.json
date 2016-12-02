@@ -2,7 +2,7 @@
 	"notifications":
 	[
 		{
-			"new_walls": "1",
+			"new_walls": "10",
 			"general": "v. 0.2.7 beta - available for download. Misc improvements: added Next laucher support (2D mode)"
 		}
 	]
