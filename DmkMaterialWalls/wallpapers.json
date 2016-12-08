@@ -1,6 +1,248 @@
 {
 	"wallpapers": [
 		{
+			"name": "wallpaper n1",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n1.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n2",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n2.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n3",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n3.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n4",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n4.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n5",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n5.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		{
+			"name": "wallpaper n6",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "1080 x 1920",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n6.jpg",
+			"dimensions": "",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n7",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "1080 x 1920",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n7.jpg",
+			"dimensions": "",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n8",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n8.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n9",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n9.jpg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n10",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n10.jpg",
+			"dimensions": "1920 x 1920",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},{
+			"name": "wallpaper n11",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n11.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n12",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n12.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n13",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n13.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n14",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n14.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n15",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n15.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},{
+			"name": "wallpapern 16",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n16.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n17",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n17.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n18",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n18.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n19",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n19.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n20",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n20.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},{
+			"name": "wallpaper n21",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n21.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n22",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n22.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n23",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n23.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n24",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n24.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		
+		{
+			"name": "wallpaper n25",
+			"author": "Dmk Design",
+			"downloadable": "true",
+			"thumbnail": "",
+			"url": "https://raw.githubusercontent.com/DmkMamon/IconShowcase-Dashboard/master/DmkMaterialWalls/wallpaper_n25.jpg",
+			"dimensions": "1920 x 1080",
+			"copyright": "Copyright¸ 2016 Dmk Design. All rights reserved."
+		},
+		{
 			"name": "Blue900",
 			"author": "Dmk Design",
 			"downloadable": "true",
